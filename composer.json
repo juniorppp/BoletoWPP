@@ -4,6 +4,7 @@
     "homepage": "http://github.com/juniorppp/BoletoWPP",
     "type": "library",
     "license": "BSD-3-Clause",
+	"version": "1.0",
     "authors": [
         {
             "name": "Gelson Junior",
