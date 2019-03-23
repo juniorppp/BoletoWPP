@@ -1,0 +1,13 @@
+{
+    "name": "junior/boletowpp",
+    "description": "Gerar boletos para clientes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gelson Junior",
+            "email": "junior.ppp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
