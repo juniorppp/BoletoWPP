@@ -1,7 +1,7 @@
 {
-    "name": "juniorppp/BoletoWPP",
+    "name": "juniorppp/boletowpp",
     "description": "Gerar boletos para clientes",
-    "homepage": "http://github.com/juniorppp/BoletoWPP",
+    "homepage": "http://github.com/juniorppp/boletowpp",
     "type": "library",
     "license": "BSD-3-Clause",
 	"version": "1.0",
