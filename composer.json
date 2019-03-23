@@ -1,13 +1,24 @@
 {
-    "name": "junior/boletowpp",
+    "name": "juniorppp/BoletoWPP",
     "description": "Gerar boletos para clientes",
-    "license": "MIT",
+    "homepage": "http://github.com/juniorppp/BoletoWPP",
+    "type": "library",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Gelson Junior",
             "email": "junior.ppp@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "slim/slim": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BoletoWPP\\": "WPP"
+        }
+    }
 }
