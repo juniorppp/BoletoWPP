@@ -5,6 +5,7 @@
     "type": "library",
     "license": "BSD-3-Clause",
 	"version": "1.0",
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "Gelson Junior",
