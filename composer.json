@@ -10,12 +10,6 @@
             "email": "junior.ppp@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.5"
-    },
-    "require-dev": {
-        "slim/slim": "^3.0"
-    },
     "autoload": {
         "psr-4": {
             "BoletoWPP\\": "WPP"
